@@ -3,6 +3,7 @@
 Bot interface for VkTeam, written on dotnet.
 Based on Refit.
 
+### [WIP] not all methods are available
 
 ## Usage
 DI:
