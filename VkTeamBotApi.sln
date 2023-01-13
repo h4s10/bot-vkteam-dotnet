@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkTeam.Client", "VkTeam.Client\VkTeam.Client.csproj", "{A261F799-7DFF-4C0E-A1FA-5B5990E738CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkTeam.DataContracts", "VkTeam.DataContracts\VkTeam.DataContracts.csproj", "{7C34AAFE-0856-4F1B-A306-FB222250CA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkTeam.Example", "VkTeam.Example\VkTeam.Example.csproj", "{37CD4074-6C69-4CB3-A6CF-547BC5B59205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A261F799-7DFF-4C0E-A1FA-5B5990E738CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A261F799-7DFF-4C0E-A1FA-5B5990E738CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A261F799-7DFF-4C0E-A1FA-5B5990E738CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A261F799-7DFF-4C0E-A1FA-5B5990E738CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C34AAFE-0856-4F1B-A306-FB222250CA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C34AAFE-0856-4F1B-A306-FB222250CA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C34AAFE-0856-4F1B-A306-FB222250CA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C34AAFE-0856-4F1B-A306-FB222250CA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CD4074-6C69-4CB3-A6CF-547BC5B59205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CD4074-6C69-4CB3-A6CF-547BC5B59205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CD4074-6C69-4CB3-A6CF-547BC5B59205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CD4074-6C69-4CB3-A6CF-547BC5B59205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
