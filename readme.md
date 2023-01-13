@@ -10,7 +10,7 @@ DI:
 ```csharp
 services
     .AddRefitClient<IMyTeamClient>()  
-    .ConfigureHttpClient(c => c.BaseAddress = new Uri(contextCallback.Configuration.GetSection("MyTeamHost").Value));
+    .ConfigureHttpClient(c => c.BaseAddress = new Uri(contextCallback.Configuration.GetSection("VkTeamHost").Value));
 ```
 Example of getting newMessage events:
 ```csharp
